@@ -1,4 +1,4 @@
-# Simples Formulário de cadastro Tkinter
+# Simples Formulário de cadastro Tkinter (readme copiado do projeto original amigos)
 
 ## 1. Informação geral:
 
